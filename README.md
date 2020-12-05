@@ -1,7 +1,5 @@
-# Arch install script
-
-#### 介绍
-Arch Linux的安装脚本（半自动）。
+# ChinaArch [![star](https://gitee.com/bilibili_FunnyAWM/ChinaArch/badge/star.svg?theme=dark)](https://gitee.com/bilibili_FunnyAWM/ChinaArch/stargazers)
+ChinaArch，只做一个简单、安静的Arch Linux安装器。
 
 脚本何时开始编写的？
 
